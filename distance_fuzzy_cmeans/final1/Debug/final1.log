@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  final1.cpp
+e:\opencv\build\include\opencv2\calib3d.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\user\desktop\vision_homework\final1\final1\final1.cpp(100): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\vision_homework\final1\final1\final1.cpp(153): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\vision_homework\final1\final1\final1.cpp(157): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\vision_homework\final1\final1\final1.cpp(192): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\vision_homework\final1\final1\final1.cpp(208): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\vision_homework\final1\final1\final1.cpp(214): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\vision_homework\final1\final1\final1.cpp(227): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\vision_homework\final1\final1\final1.cpp(232): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\vision_homework\final1\final1\final1.cpp(249): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\vision_homework\final1\final1\final1.cpp(270): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\vision_homework\final1\final1\final1.cpp(272): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\vision_homework\final1\final1\final1.cpp(300): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\vision_homework\final1\final1\final1.cpp(319): warning C4018: '<': signed/unsigned 不相符
+opencv_world420d.lib(opencv_world420d.dll) : fatal error LNK1112: 模組電腦類型 'x64' 與目標電腦類型 'x86' 衝突

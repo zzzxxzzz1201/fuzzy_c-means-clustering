@@ -1,0 +1,11 @@
+﻿  final3.cpp
+e:\opencv\build\include\opencv2\calib3d.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\user\desktop\vision_homework\final3\final3\final3.cpp(124): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+c:\users\user\desktop\vision_homework\final3\final3\final3.cpp(127): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+c:\users\user\desktop\vision_homework\final3\final3\final3.cpp(147): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+c:\users\user\desktop\vision_homework\final3\final3\final3.cpp(150): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+c:\users\user\desktop\vision_homework\final3\final3\final3.cpp(192): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+c:\users\user\desktop\vision_homework\final3\final3\final3.cpp(299): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+c:\users\user\desktop\vision_homework\final3\final3\final3.cpp(324): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+c:\users\user\desktop\vision_homework\final3\final3\final3.cpp(327): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  final3.vcxproj -> C:\Users\USER\Desktop\vision_homework\final3\x64\Debug\final3.exe
